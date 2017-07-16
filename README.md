@@ -1,2 +1,6 @@
-# big-ip_backup-SSH-Version
-Script to backup system from a BIG-IP F5 via SSH/SCP
+**BIG IP Backup SSH Version**
+===================
+
+This script connect to a list of BIP IP F5 appliance to backup create and save ucs file.
+You need to create a trust connection via SSH key for connecting to Big IP without prompt :
+https://doc.fedora-fr.org/wiki/SSH_:_Authentification_par_cl%C3%A9
